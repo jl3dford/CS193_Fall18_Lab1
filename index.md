@@ -15,12 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
 Reasons I like CS 193:
-1. It's in the Lawson Computer Science Building.
-2. I love to code!
+- It's in the Lawson Computer Science Building.
+- I love to code!
+
+1.
+2.
 
 **Bold** and _Italic_ and `Code` text
 
